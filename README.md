@@ -2,8 +2,8 @@
 # RESTApi - Golang
 
 Este projeto foi realizado para testar e consolidar conhecimenso em RESTApis em Go.
-Com este projeto você é capaz de Criar, editar e deletar Dados de ruas com nomes de 'personalidades'
-obviamente você pode editar o codigo da maneira que desejar.
+Com este projeto você é capaz de Criar, editar e deletar Dados, neste caso usamos 'personalidades'.
+FrontEnd e backend já estão integrados.
 
 ## Como utilizar
 1 - Temos dois arquivos, 1 sendo nosso frontend em React e Nosso backend em Golang.
