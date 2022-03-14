@@ -51,5 +51,5 @@ Rode o comando acima para inicar o back end
 
 ## Screenshots
 
-![App Screenshot](<img src="https://i.ibb.co/K7PpSH1/Web-capture-14-3-2022-174251-localhost.jpg")
+<img src="https://i.ibb.co/K7PpSH1/Web-capture-14-3-2022-174251-localhost.jpg">
 
