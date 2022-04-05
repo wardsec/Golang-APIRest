@@ -5,10 +5,7 @@ Este projeto foi realizado para testar e consolidar conhecimenso em RESTApis em 
 Com este projeto você é capaz de Criar, editar e deletar Dados, neste caso usamos 'personalidades'.
 FrontEnd e backend já estão integrados.
 
-## Como utilizar
-1 - Temos dois arquivos, 1 sendo nosso frontend em React e Nosso backend em Golang.
-Para iniciar nosso frontend 
-## Rodando o projeto
+ ## Rodando o projeto
 
 Antes de tudo, Crie a estrutura de banco da dados 
 ```
@@ -26,30 +23,14 @@ INSERT INTO personalidades(nome, historia) VALUES
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/wardsec/Golang-APIRest
 ```
 
-Inciando o front end - Apos entrar na pasta inicia o rode o comando:
-
+Inciando o projeto
 ```bash
-  npm install
-  npm start
+ go run main.go
 
 ```
-Apos isso entre na pasta de nosso back end e configure a conexao com o banco de dados em database/db.go
-```bash
-  go run main.go
-```
-Rode o comando acima para inicar o back end
-
-
-
 ## Funcionalidades
 
 - Criar, deletar e fazed update.
-
-
-## Screenshots
-
-<img src="https://i.ibb.co/K7PpSH1/Web-capture-14-3-2022-174251-localhost.jpg">
-
